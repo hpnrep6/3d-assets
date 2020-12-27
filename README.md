@@ -1,1 +1,1 @@
-Aggregation of random 3d assets used in my games.
+Random mostly low-poly 3d assets.
