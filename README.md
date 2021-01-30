@@ -1,1 +1,1 @@
-Random mostly low-poly 3d assets.
+3D asset dump
